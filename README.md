@@ -1,5 +1,7 @@
-# Phuc Tran
-
-### I am an artist. This is my portfolio site.
-
-This is a *README* file for my repository. It is written using **Markdown**.
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Phuc Tran</h1>
+    <p>Hello</p>
+  </body>
+</html>
